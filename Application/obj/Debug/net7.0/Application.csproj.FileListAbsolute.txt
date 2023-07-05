@@ -1,0 +1,17 @@
+E:\Kod\Udemy .net + React App\Reactivities\Application\bin\Debug\net7.0\Application.deps.json
+E:\Kod\Udemy .net + React App\Reactivities\Application\bin\Debug\net7.0\Application.dll
+E:\Kod\Udemy .net + React App\Reactivities\Application\bin\Debug\net7.0\Application.pdb
+E:\Kod\Udemy .net + React App\Reactivities\Application\bin\Debug\net7.0\Domain.dll
+E:\Kod\Udemy .net + React App\Reactivities\Application\bin\Debug\net7.0\Persistence.dll
+E:\Kod\Udemy .net + React App\Reactivities\Application\bin\Debug\net7.0\Domain.pdb
+E:\Kod\Udemy .net + React App\Reactivities\Application\bin\Debug\net7.0\Persistence.pdb
+E:\Kod\Udemy .net + React App\Reactivities\Application\obj\Debug\net7.0\Application.csproj.AssemblyReference.cache
+E:\Kod\Udemy .net + React App\Reactivities\Application\obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Kod\Udemy .net + React App\Reactivities\Application\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache
+E:\Kod\Udemy .net + React App\Reactivities\Application\obj\Debug\net7.0\Application.AssemblyInfo.cs
+E:\Kod\Udemy .net + React App\Reactivities\Application\obj\Debug\net7.0\Application.csproj.CoreCompileInputs.cache
+E:\Kod\Udemy .net + React App\Reactivities\Application\obj\Debug\net7.0\Application.csproj.CopyComplete
+E:\Kod\Udemy .net + React App\Reactivities\Application\obj\Debug\net7.0\Application.dll
+E:\Kod\Udemy .net + React App\Reactivities\Application\obj\Debug\net7.0\refint\Application.dll
+E:\Kod\Udemy .net + React App\Reactivities\Application\obj\Debug\net7.0\Application.pdb
+E:\Kod\Udemy .net + React App\Reactivities\Application\obj\Debug\net7.0\ref\Application.dll
